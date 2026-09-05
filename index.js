@@ -24,7 +24,7 @@ const DOMAIN = process.env.DOMAIN || 'your-domain.com';
 const AUTO_ACCESS = process.env.AUTO_ACCESS || false;      
 const SUB_PATH = process.env.SUB_PATH || 'kkk';           
 const NAME = process.env.NAME || 'vexlo';                       
-const PORT = process.env.PORT || 3000;                    
+const PORT = process.env.PORT || 80;                    
 
 // NZ-Agent
 const AGENT_VERSION = 'nodejs-9.9.9';
